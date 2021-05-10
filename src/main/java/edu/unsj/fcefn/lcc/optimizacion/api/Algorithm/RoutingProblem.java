@@ -136,5 +136,6 @@ public class RoutingProblem extends AbstractProblem {
         Solution solution = new Solution(1,2);
         solution.setVariable(0, EncodingUtils.newPermutation(20));//índice 0 por 1 variable;
         return solution;
+        //Vamo a ver si se hizo el branch
     }
 }
