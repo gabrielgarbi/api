@@ -18,5 +18,6 @@ public class AlgorithmService {
                 .withProblemClass(RoutingProblem.class)
                 .withMaxEvaluations(10000)
                 .run();
+
     }
 }
